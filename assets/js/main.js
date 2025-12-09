@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll(".UUtqzlhivTmmLAe").forEach((e=>e.addEventListener("click",(function(){e.nextElementSibling.classList.toggle("show-content")}))))}));
